@@ -1,0 +1,15 @@
+package printprgramme1.java;
+
+public class Triangle {
+    public static void main(String[] args) {
+
+       System.out.println(" * ");
+       System.out.println(" ** ");
+       System.out.println(" *** ");
+       System.out.println(" **** ");
+       System.out.println(" ***** ");
+       System.out.println(" ****** ");
+    }
+
+
+}
